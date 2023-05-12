@@ -90,18 +90,17 @@
      <!-- ======================================== 
           Our footer Section   
     ========================================  -->
-
     <footer class="section section-footer section--hidden">
-        <div class="container grid grid-four-col">
-          <div class="f-about">
-            <h3>About</h3>
-            <p>The main aim of creating a blood organ donation management system is to streamline the process of managing blood and organ 
-              donations, ensuring efficient coordination among donors, recipients, and healthcare organizations, ultimately leading to 
-              more successful donations and improved patient outcomes.
-            </p>
-          </div>
-  
-          <div class="f-links">
+      <div class="container grid grid-four-col">
+        <div class="f-about">
+          <h3>About</h3>
+          <p>The main aim of creating a blood organ donation management system is to streamline the process of managing blood and organ 
+            donations, ensuring efficient coordination among donors, recipients, and healthcare organizations, ultimately leading to 
+            more successful donations and improved patient outcomes.
+          </p>
+        </div>
+
+        <div class="f-links">
           <h3>Links</h3>
           <ul>
             <li>
@@ -157,60 +156,49 @@
             </li>
           </ul>
         </div>
-  
-          <div class="f-address">
-            <h3>Have a Questions?</h3>
-            <address>
-              <div>
-                <p>
-                  <span><ion-icon name="location-outline"></ion-icon></span> LIVE: Mangalore, Karnataka, India
-                </p>
-              </div>
-              <div>
-                <p>
-                  <span><ion-icon name="location-outline"></ion-icon></span> INSTITUTE : MUJ, Jaipur, Rajasthan, India
-                </p>
-              </div>
-              <div>
-                <p>
-                  <span><ion-icon name="mail-outline"></ion-icon></span>
-                  ananya.219302487@muj.manipal.edu
-                </p>
-              </div>
-            </address>
-          </div>
+
+        <div class="f-address">
+          <h3>Have a Questions?</h3>
+            <div>
+              <p>
+                <span><ion-icon name="mail-outline"></ion-icon></span>
+                sample.mail@mail.com
+              </p>
+            </div>
+          </address>
         </div>
-  
-        <div class="container">
-          <div class="f-social-icons">
-            <a href="https://www.linkedin.com/in/ananya-chandraker-45329322b/">
-              <ion-icon class="icons" name="logo-linkedin"></ion-icon>
-            </a>
-  
-            <a href="https://github.com/justani02">
-              <ion-icon class="icons" name="logo-github"></ion-icon>
-            </a>
-  
-            <a href="https://twitter.com/just_ani02">
-              <ion-icon class="icons" name="logo-twitter"></ion-icon>
-            </a>
-  
-            <a href="#">
-              <ion-icon class="icons" name="logo-instagram"></ion-icon>
-            </a>
-  
-            <a href="https://www.youtube.com/channel/UCgIMwONuNwsyvRS7IbHdQvw">
-              <ion-icon class="icons" name="logo-youtube"></ion-icon>
-            </a>
-          </div>
-  
-          <div class="f-credits">
-            <p>
-              Copyright ©2023 All rights reserved | This template is made by ANANYA CHANDRAKER
-            </p>
-          </div>
+      </div>
+
+      <div class="container">
+        <div class="f-social-icons">
+          <a href="https://www.linkedin.com/in/ananya-chandraker-45329322b/">
+            <ion-icon class="icons" name="logo-linkedin"></ion-icon>
+          </a>
+
+          <a href="https://github.com/justani02">
+            <ion-icon class="icons" name="logo-github"></ion-icon>
+          </a>
+
+          <a href="https://twitter.com/just_ani02">
+            <ion-icon class="icons" name="logo-twitter"></ion-icon>
+          </a>
+
+          <a href="#">
+            <ion-icon class="icons" name="logo-instagram"></ion-icon>
+          </a>
+
+          <a href="https://www.youtube.com/channel/UCgIMwONuNwsyvRS7IbHdQvw">
+            <ion-icon class="icons" name="logo-youtube"></ion-icon>
+          </a>
         </div>
-      </footer>
+
+        <div class="f-credits">
+          <p>
+            Copyright ©2023 All rights reserved | This template is made by ANANYA CHANDRAKER
+          </p>
+        </div>
+      </div>
+    </footer>
   
       <!-- ======================================== 
             Our JavaScript Section   
