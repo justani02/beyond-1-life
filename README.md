@@ -35,7 +35,7 @@ Happy Organ Donors--->
 Footer--->
 ![Footer](https://github.com/justani02/beyond-1-life/assets/110666634/6d94d0b5-a88b-40b8-a8c0-8a193a6b1fa4)
 ***
-#### VIDEO
+#### OUTPUT-VIDEO
 
 https://github.com/justani02/beyond-1-life/assets/110666634/3be5a90a-863f-4c7f-b645-fd927dd60765
 
