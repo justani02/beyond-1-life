@@ -33,6 +33,14 @@ Happy Organ Donors--->
 ![Organ donor](https://github.com/justani02/beyond-1-life/assets/110666634/51fc2b90-221f-4d3a-bd1f-9ca44066de69)
 
 Footer--->
+![Footer](https://github.com/justani02/beyond-1-life/assets/110666634/6d94d0b5-a88b-40b8-a8c0-8a193a6b1fa4)
+***
+#### VIDEO
+
+https://github.com/justani02/beyond-1-life/assets/110666634/3be5a90a-863f-4c7f-b645-fd927dd60765
+
+https://github.com/justani02/beyond-1-life/assets/110666634/253c2289-6edc-469f-a502-79c0cc716c93
+
 
 
 
