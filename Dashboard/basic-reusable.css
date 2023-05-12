@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800&family=Work+Sans:wght@400;500&display=swap');
+
+
+
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Work Sans', sans-serif;
+}
+
+:root
+{
+    --heading: rgb(0, 18, 25);
+    --para: rgb(73, 80, 87);
+    --para-tint: rgb(206, 212, 218);
+    --white: #fff;
+    --helper:#042124bb;
+    --helper-tint: rgb(231, 236, 239);
+    --bg: #fff;
+    --background: linear-gradient(90deg, rgba(3,0,54,0.9358974358974359) 0%, rgba(69,123,157,1) 42%, rgba(146,201,213,1) 100%);
+    /* --gradientSupport:; */
+    --shadow: 0px 0px 20px 0px rgb(132 144 255 / 20%);
+    --shadow-support: 0px 20px 20px 0px rgba(36, 39, 71, 0.3);
+}
+
+
+html
+{
+    font-size: 62.5;
+    /*1rem=10px*/
+}
+
+h1,h2,h3,h4
+{
+    font-family: "Poppins",sans-serif;
+}
+
+h1
+{
+    color: var(--heading);
+    font-size: 6rem;
+    font-weight: 600;
+}
+
+h3
+{
+    font-size: 1.8rem;
+    font-weight: 400;
+}
+
+p
+{
+    color: var(--para);
+    line-height: 1.6;
+    font-size: 1.7rem;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+li
+{
+    list-style: none;
+}
+
+
