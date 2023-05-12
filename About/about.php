@@ -305,21 +305,10 @@
 
         <div class="f-address">
           <h3>Have a Questions?</h3>
-          <address>
-            <div>
-              <p>
-                <span><ion-icon name="location-outline"></ion-icon></span> LIVE: Mangalore, Karnataka, India
-              </p>
-            </div>
-            <div>
-              <p>
-                <span><ion-icon name="location-outline"></ion-icon></span> INSTITUTE : MUJ, Jaipur, Rajasthan, India
-              </p>
-            </div>
             <div>
               <p>
                 <span><ion-icon name="mail-outline"></ion-icon></span>
-                ananya.219302487@muj.manipal.edu
+                sample.mail@mail.com
               </p>
             </div>
           </address>
