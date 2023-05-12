@@ -33,7 +33,7 @@ Happy Organ Donors--->
 ![Organ donor](https://github.com/justani02/beyond-1-life/assets/110666634/51fc2b90-221f-4d3a-bd1f-9ca44066de69)
 
 Footer--->
-![Footer](https://github.com/justani02/beyond-1-life/assets/110666634/5ed9d13c-9c04-4b4e-8e08-b766cdd3d5ca)
+
 
 
 
