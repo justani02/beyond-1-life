@@ -90,7 +90,7 @@
      <!-- ======================================== 
           Our footer Section   
     ========================================  -->
-    <footer class="section section-footer section--hidden">
+     <footer class="section section-footer section--hidden">
       <div class="container grid grid-four-col">
         <div class="f-about">
           <h3>About</h3>
@@ -171,15 +171,15 @@
 
       <div class="container">
         <div class="f-social-icons">
-          <a href="https://www.linkedin.com/in/ananya-chandraker-45329322b/">
+          <a href="">
             <ion-icon class="icons" name="logo-linkedin"></ion-icon>
           </a>
 
-          <a href="https://github.com/justani02">
+          <a href="">
             <ion-icon class="icons" name="logo-github"></ion-icon>
           </a>
 
-          <a href="https://twitter.com/just_ani02">
+          <a href="">
             <ion-icon class="icons" name="logo-twitter"></ion-icon>
           </a>
 
@@ -187,7 +187,7 @@
             <ion-icon class="icons" name="logo-instagram"></ion-icon>
           </a>
 
-          <a href="https://www.youtube.com/channel/UCgIMwONuNwsyvRS7IbHdQvw">
+          <a href="">
             <ion-icon class="icons" name="logo-youtube"></ion-icon>
           </a>
         </div>
