@@ -13,3 +13,35 @@ Overall,
 
 > Whether you're a developer, healthcare professional, or passionate advocate for donation, we invite you to join us in our mission to save lives and make a positive impact in the world. Thank you for your interest in our project!
 ***
+####  `Languages used`
+* `HTML5`
+* `CSS3`
+* `JAVASCRIPT`
+* `PHP`
+***
+### OUTPUTS
+Homepage--->
+![Homepage](https://github.com/justani02/beyond-1-life/assets/110666634/2697380a-2b6e-446e-a730-24125c8d4ec8)
+
+Section Counter--->
+![Section Counter](https://github.com/justani02/beyond-1-life/assets/110666634/38c5749a-a028-4bf8-b34d-3a2a5de4c800)
+
+Happy Blood Donors--->
+![Blood donors](https://github.com/justani02/beyond-1-life/assets/110666634/363d6e6d-7b51-4971-8f41-684f99aebffb)
+
+Happy Organ Donors--->
+![Organ donor](https://github.com/justani02/beyond-1-life/assets/110666634/51fc2b90-221f-4d3a-bd1f-9ca44066de69)
+
+Footer--->
+![Footer](https://github.com/justani02/beyond-1-life/assets/110666634/6d94d0b5-a88b-40b8-a8c0-8a193a6b1fa4)
+***
+#### OUTPUT-VIDEO
+
+https://github.com/justani02/beyond-1-life/assets/110666634/3be5a90a-863f-4c7f-b645-fd927dd60765
+
+https://github.com/justani02/beyond-1-life/assets/110666634/253c2289-6edc-469f-a502-79c0cc716c93
+
+
+
+
+
